@@ -12,7 +12,7 @@ If you're currently taking the same course, please refrain yourself from checkin
 <br/>
 __Assignment Description:__
 <br/>
-Use Data Bricks platform to process fire calls dataset from the San Francisco's fire department in a distributed computing environment. Build a sklearn logistic regression model to predict the type of calls for incidents in a SQL table.
+Use Databricks, a web-based platform for working with Apache Spark, to process fire calls dataset from the San Francisco's fire department and build a sklearn logistic regression model to predict the type of calls for incidents in a SQL table.
 
 Note to notebook on Data Bricks:
 https://community.cloud.databricks.com/?o=1571733193913160#notebook/894243193530461/command/894243193530462
